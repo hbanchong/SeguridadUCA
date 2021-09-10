@@ -1,0 +1,15 @@
+NOMBRE_TIPO_INCIDENTE,ID_CATEGORIA_INCIDENTE
+Caida por resbal�n,1
+Golpe por caida de objeto,1
+Inhalar vapores t�xicos.,1
+Infarto,2
+Otros,1
+Caida,1
+Atropello,1
+Desgarre muscular,1
+Corte,1
+Desmayo,2
+Problemas card�acos,2
+Problemas respiratorios,2
+Otros,2
+Quemadura,1
